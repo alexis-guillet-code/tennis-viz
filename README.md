@@ -1,5 +1,5 @@
 # tennis-viz
-
+   ![Serve comparison](serve_comparison.png)
 Tennis match analysis and data visualisation in Python (pandas + matplotlib).
 
 ## Projects
